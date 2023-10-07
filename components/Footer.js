@@ -6,7 +6,7 @@ export default function Footer() {
       <footer className={styles.footer}>
     <ul>
     <li>
-    <a href="url">About Me</a>
+    <a href="/About-me">About Me</a>
     </li>
     </ul>
       </footer>
