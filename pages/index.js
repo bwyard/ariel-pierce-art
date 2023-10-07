@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Ariel Pierce Art!" />
         <p className="description">
-          This site is a work in progress</code>
+          This site is a work in progress
         </p>
       </main>
 
