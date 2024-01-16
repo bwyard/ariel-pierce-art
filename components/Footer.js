@@ -4,6 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
+          <p>Ariel Pierce</p>
       </footer>
     </>
   )
